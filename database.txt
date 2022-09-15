@@ -1,0 +1,5 @@
+ 1 tatti 100 10
+ 2 idli 30 0
+ 3 biriyani 180 40
+
+  4 tea 10 0
